@@ -30,7 +30,7 @@ I am a passionate developer who enjoys building clean and user-friendly digital 
 <h2>🛠 Tech Stack</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,html,css" height="45" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,php,laravel,dotnet,python" height="45" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,php,laravel,dotnet,python,java" height="45" />
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase" height="45" />
   <img src="https://skillicons.dev/icons?i=git,github" height="45" />
 </div>
