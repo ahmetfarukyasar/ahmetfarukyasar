@@ -37,6 +37,12 @@ I am a passionate developer who enjoys building clean and user-friendly digital 
 
 <br/>
 
+<h2>🔥 LeetCode Streak</h2>
+<div align="center">
+   <img src="https://leetcard.jacoblin.cool/ahmetfarukysr?theme=dark&ext=heatmap" /> 
+  <!--<img src="https://leetcard.jacoblin.cool/ahmetfarukysr" />-->
+</div>
+
 <h2>🔥 GitHub Streak</h2>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetfarukyasar&theme=dark&hide_border=true" />
