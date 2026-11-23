@@ -30,6 +30,7 @@ I focus on embedded systems and software architecture, turning technical theory 
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,php,laravel,dotnet,java" height="45" />
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase" height="45" />
   <img src="https://skillicons.dev/icons?i=git,github" height="45" />
+  <img src="https://skillicons.dev/icons?i=linux" height="45" />
 </div>
 
 <br/>
