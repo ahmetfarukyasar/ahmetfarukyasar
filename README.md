@@ -22,7 +22,7 @@
 
 <h2>👨‍💻 About Me</h2>
 <p>
-I am a passionate developer who enjoys building clean and user-friendly digital experiences. With a strong interest in frontend and backend technologies, I aim to create modern, responsive, and accessible applications. Outside of coding, I value continuous learning, problem-solving, and bringing ideas to life with creativity.
+I focus on embedded systems and software architecture, turning technical theory into working projects and solutions.
 </p>
 
 <br/>
